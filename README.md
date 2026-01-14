@@ -1,4 +1,3 @@
-# oradbabuddy
 # 🩺 Oracle DBA Buddy Utility
 
 **A powerful, interactive Oracle Database health check and management tool that revolutionizes how DBAs connect to PDBs and perform critical database checks.**
@@ -6,7 +5,7 @@
 ---
 
 ## 🌟 Overview
-
+## oradbabuddy
 **Oracle DBA Buddy** is an advanced, menu-driven bash utility designed to streamline Oracle database administration tasks. It eliminates the complexity of manually connecting to Container Databases (CDBs) and Pluggable Databases (PDBs), providing DBAs with instant access to database health checks through an intuitive, color-coded interface.
 
 ### 🚀 Key Benefits
