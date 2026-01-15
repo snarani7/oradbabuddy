@@ -156,6 +156,8 @@ Upon execution, you'll see the main menu:
 ---
 Enter your choice [1-4]:
 ```
+<img width="705" height="197" alt="image" src="https://github.com/user-attachments/assets/acd4ed6b-df3c-4ed5-a3bc-d8fb8c2f9908" />
+
 
 ### PDB Connection Workflow (DBA/APPDBA Modes)
 
@@ -203,6 +205,7 @@ Enter number for database service:
 # 5. View results instantly
 # 6. Press any key to return to menu
 ```
+<img width="1581" height="149" alt="image" src="https://github.com/user-attachments/assets/71466ec8-25d4-49fa-b82c-37ab3e33d344" />
 
 ---
 
